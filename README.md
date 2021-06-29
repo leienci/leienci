@@ -9,4 +9,4 @@ leienci/leienci is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<!--- 某二本大学在校大学生，整日遭受高数和大学英语的毒打。 --->
+<!--- 某国内二本大学在校大学生，整日遭受数学和英语的毒打。 --->
